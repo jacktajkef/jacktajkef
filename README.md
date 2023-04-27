@@ -4,7 +4,7 @@ I'm a high school student in Los Angleles, California. I currently am the Team P
 
 ## 🔗 Links
 ```
-* Website: https://jacktajkef.com
+* Website: jacktajkef.com
 * Email: jacktajkef@outlook.com
 * Instagram: @jtajkef
 * CD: jacktajkef
