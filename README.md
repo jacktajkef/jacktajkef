@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey, I'm Jack
 
-<!--
-**jacktajkef/jacktajkef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student in Los Angleles, California. I currently am the Team President of FRC Team 7415, Jaguar Robotics and I am a proficient developer/programmer.
 
-Here are some ideas to get you started:
+## 🔗 Links
+```diff
+* Website: jacktajkef.com
+* Email: jacktajkef@outlook.com
+* Instagram: @jtajkef
+* CD: jacktajkef
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What can I do?
+[![Skills](https://skillicons.dev/icons?i=java,nodejs,python,html,linux,express,git,nginx,vscode,cloudflare,discord)](https://github.com/jacktajkef/jacktajkef/blob/main/README.md#-skills)
+
+## 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=jacktajkef&show_icons=true&theme=gotham)
