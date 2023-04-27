@@ -3,8 +3,8 @@
 I'm a high school student in Los Angleles, California. I currently am the Team President of FRC Team 7415, Jaguar Robotics and I am a proficient developer/programmer.
 
 ## 🔗 Links
-```diff
-* Website: jacktajkef.com
+```
+* Website: https://jacktajkef.com
 * Email: jacktajkef@outlook.com
 * Instagram: @jtajkef
 * CD: jacktajkef
