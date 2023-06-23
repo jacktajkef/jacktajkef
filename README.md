@@ -12,6 +12,3 @@ I'm a high school student in Los Angleles, California. I currently am the Team P
 
 ## 💻 What can I do?
 [![Skills](https://skillicons.dev/icons?i=java,nodejs,python,lua,vscode,replit,linux,raspberrypi,firebase)](https://github.com/jacktajkef/jacktajkef/blob/main/README.md#-what-can-i-do)
-
-## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=jacktajkef&show_icons=true&theme=gotham)
